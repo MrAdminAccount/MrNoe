@@ -1,2 +1,2 @@
 # MrNoe
-Noe
+Discord bot open source
