@@ -14,7 +14,6 @@ MrNoe reached **100,000+ users** and included features organised into categories
 - **Animals** — Animal-related commands
 - **Fun** — Entertainment and community engagement
 - **Information** — Informational commands
-- **NSFW** — Age-restricted commands
 - **Other** — Additional bot functionality
 
 ## Project Status
